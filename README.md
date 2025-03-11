@@ -1,1 +1,0 @@
-# video_snapshot_maker
